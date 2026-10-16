@@ -1,0 +1,22 @@
+{
+ "name":"Sebastián Ramírez Gómez",
+ "headline":"Materials Science | Computational Materials | Density Functional Theory",
+ "subtitle":"Computational modeling of materials properties and molecular interactions at surfaces.",
+ "intro":"I use density functional theory and atomistic simulation to study how molecules interact with materials, with a focus on adsorption and gas sensing.",
+ "bio":["[Placeholder] Academic background: add your degrees and institutions in data/site.json.","[Placeholder] Current studies and research interests.","[Placeholder] Scientific motivation, approach and long-term goals."],
+ "affiliation":"[Placeholder: institution]",
+ "email":"",
+ "social":{"orcid":"","scholar":"","github":"","linkedin":""},
+ "cv_file":"",
+ "interests":[
+  {"t":"Density Functional Theory (DFT)","d":"First-principles electronic structure calculations."},
+  {"t":"Computational Materials Science","d":"Atomistic models of bulk and surface systems."},
+  {"t":"Molecular Adsorption and Surface Chemistry","d":"Binding, geometry and energetics of adsorbates."},
+  {"t":"Gas Sensing and Toxic Molecule Capture","d":"Materials for detecting and capturing hazardous gases."},
+  {"t":"Electronic Structure and Charge Transfer","d":"Charge redistribution upon adsorption."},
+  {"t":"Work Function and Surface Properties","d":"Surface electronic response."},
+  {"t":"Bonding Analysis","d":"Interpreting interactions from the electronic structure."},
+  {"t":"Structure–Property Relationships","d":"Linking atomic structure to function."}],
+ "timeline":[{"date":"[YYYY–YYYY]","title":"[Degree or position]","inst":"[Institution]","loc":"","desc":"[Short description]"}],
+ "skills":["[Add technical skills]"],"tools":["[Add computational tools]"],"languages":["[Add languages]"],"awards":[]
+}
